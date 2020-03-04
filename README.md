@@ -11,8 +11,7 @@
  activate my_env
  ```
 * [Install IJulia Notebooks and other required packages](https://github.com/JuliaLang/IJulia.jl)
- ```add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interact
- ```
+ ```add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interact```
 * Exit the package manager (ctrl+C) and start the notebook
  ```
  using IJulia
