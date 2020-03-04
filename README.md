@@ -6,13 +6,18 @@
 * [Install Julia](https://julialang.org/downloads/platform/)
 * [Start interactive session (REPL)](https://docs.julialang.org/en/v1/manual/getting-started/)
 * [Create new enviroment](https://docs.julialang.org/en/v1/stdlib/Pkg/)
+
  ```
  ]
  activate my_env
  ```
+
 * [Install IJulia Notebooks and other required packages](https://github.com/JuliaLang/IJulia.jl)
- ```add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interact```
+
+ `add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interact`
+
 * Exit the package manager (ctrl+C) and start the notebook
+
  ```
  using IJulia
  notebook(dir="./path_to_my_env")
