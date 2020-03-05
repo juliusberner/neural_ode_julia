@@ -1,8 +1,6 @@
 # Neural Differential Equations in Julia
 > Exploring the [Flux.jl](https://github.com/FluxML/Flux.jl) and [DiffEqFlux.jl](https://github.com/JuliaDiffEq/DiffEqFlux.jl) packages. Material for the [VSM Student Retreat 2020](https://www.vsmath.at/academics/student-retreats/) 
 
-![https://www.reddit.com/r/Julia/comments/bhbvca/i_cant_be_the_only_one_who_has_had_these/elto98y/](https://i.redd.it/wv5z7m99bgu21.png)
-
 ## Local install
 
 * [Install Julia](https://julialang.org/downloads/platform/)
@@ -34,4 +32,5 @@
 * [Julia in Google Colab](https://discourse.julialang.org/t/julia-on-google-colab-free-gpu-accelerated-shareable-notebooks/15319)
 
 
-
+![](https://i.redd.it/wv5z7m99bgu21.png)
+Image: [reddit](https://www.reddit.com/r/Julia/comments/bhbvca/i_cant_be_the_only_one_who_has_had_these/elto98y/)
