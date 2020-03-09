@@ -16,7 +16,7 @@
 * [Install IJulia Notebooks and other required packages](https://github.com/JuliaLang/IJulia.jl)
 
  ```
- add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interacts
+ add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interacts, PlotlyJS, ORCA, Random, CuArrays
  ```
 
 * Exit the package manager (ctrl+C) and start the notebook
@@ -31,6 +31,7 @@
 * [JuliaBox](https://www.juliabox.com/)
 * [Julia in Google Colab](https://discourse.julialang.org/t/julia-on-google-colab-free-gpu-accelerated-shareable-notebooks/15319)
 
+---
 
 ![](https://i.redd.it/wv5z7m99bgu21.png)
-Image: [reddit](https://www.reddit.com/r/Julia/comments/bhbvca/i_cant_be_the_only_one_who_has_had_these/elto98y/)
+image credit: [reddit](https://www.reddit.com/r/Julia/comments/bhbvca/i_cant_be_the_only_one_who_has_had_these/elto98y/)
