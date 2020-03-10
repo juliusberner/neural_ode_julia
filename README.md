@@ -16,7 +16,7 @@
 * [Install IJulia Notebooks and other required packages](https://github.com/JuliaLang/IJulia.jl)
 
  ```
- add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, Interacts, PlotlyJS, ORCA, Random, CuArrays
+ add IJulia, DiffEqFlux, DifferentialEquations, Plots, Optim, PlotlyJS, ORCA, Random, CuArrays
  ```
 
 * Exit the package manager (ctrl+C) and start the notebook
